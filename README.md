@@ -3,7 +3,7 @@
 2 ways to run movieapp:
 
 First method:
-1. Download the source scode from my github: https://github.com/wmchong/movieapp.git
+1. Download the source code from my github: https://github.com/wmchong/movieapp.git
 2. Use command prompt and cd to the location of the file: movieapp or movieapp-main
 3. Install all the dependencies as reflected in the package.js file
 4. Run command line: 'expo start'
