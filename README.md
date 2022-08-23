@@ -16,7 +16,7 @@ Second method:
 
 Disclaimer*
 The first method of running the application demostrate the fully developed application with extra features such as incorparation of Firebase realtime database and authentication, favourite selected movies and reflects watchlist in the application as shown in the youtube video link.
-Youtube link: 
+\nYoutube link: 
 
 The second method of running the application on Expo Snack have implications with the lastest version of Firebase and thus unable to function. Hence, the decision to completely remove features that requires Firebase was made.
 
