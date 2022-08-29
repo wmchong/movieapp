@@ -1,6 +1,6 @@
 # movieapp
 
-2 ways to run movieapp:
+Three ways to run movieapp:
 
 First method:
 1. Youtube link: https://youtu.be/dS7UnBQDk2Y
