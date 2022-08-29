@@ -5,7 +5,7 @@
 First method:
 1. Download the source code from my github: https://github.com/wmchong/movieapp.git
 2. Use command prompt and cd to the location of the file: movieapp or movieapp-main
-3. Install all the dependencies as reflected in the package.js file
+3. Install all the dependencies as reflected in the package.js file using npm install
 4. Run command line: 'expo start'
 5. Register an account with a legit google mail to access the movieapp
 
