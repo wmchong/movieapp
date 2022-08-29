@@ -11,14 +11,18 @@ First method:
 6. Register an account with a legit google mail to access the movieapp
 
 Second method:
+1. Go to: https://expo.dev/@weimengcsg/movieapp?serviceType=classic&distribution=expo-go
+2. Open Expo Go on your smartphone and scan the QR code
+
+Third method:
 1. Go to: https://snack.expo.dev/@weimengcsg/movieapp
 2. Click on run on 'My Device' tab
 3. Scan the QR code with an Android smartphone to access the movieapp
 
 Disclaimer*
-The first method of running the application demostrate the fully developed application with extra features such as incorparation of Firebase realtime database and authentication, favourite selected movies and reflects watchlist in the application as shown in the youtube video link.
+The first and second method of running the application demostrate the fully developed application with extra features such as incorparation of Firebase realtime database and authentication, favourite selected movies and reflects watchlist in the application as shown in the youtube video link.
 Youtube link: https://youtu.be/dS7UnBQDk2Y
 
-The second method of running the application on Expo Snack have implications with the lastest version of Firebase and thus unable to function. Hence, the decision to completely remove features that requires Firebase was made.
+The third method of running the application on Expo Snack have implications with the lastest version of Firebase and thus unable to function. Hence, the decision to completely remove features that requires Firebase was made.
 
-The second method of running the application on Expo Snack does not fully work on 'Web' tab as the flat list is not rendering the movie posters. Hence, only by running the application with an Android smartphone with Expo Go is possible to load the application.
+The third method of running the application on Expo Snack does not fully work on 'Web' tab as the flat list is not rendering the movie posters. Hence, only by running the application with an Android smartphone with Expo Go is possible to load the application.
