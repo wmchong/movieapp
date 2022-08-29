@@ -3,11 +3,12 @@
 2 ways to run movieapp:
 
 First method:
-1. Download the source code from my github: https://github.com/wmchong/movieapp.git
-2. Use command prompt and cd to the location of the file: movieapp or movieapp-main
-3. Install all the dependencies as reflected in the package.js file using npm install
-4. Run command line: 'expo start'
-5. Register an account with a legit google mail to access the movieapp
+1. Youtube link: https://youtu.be/dS7UnBQDk2Y
+2. Download the source code from my github: https://github.com/wmchong/movieapp.git
+3. Use command prompt and cd to the location of the file: movieapp or movieapp-main
+4. Install all the dependencies as reflected in the package.js file using npm install
+5. Run command line: 'expo start'
+6. Register an account with a legit google mail to access the movieapp
 
 Second method:
 1. Go to: https://snack.expo.dev/@weimengcsg/movieapp
@@ -16,7 +17,7 @@ Second method:
 
 Disclaimer*
 The first method of running the application demostrate the fully developed application with extra features such as incorparation of Firebase realtime database and authentication, favourite selected movies and reflects watchlist in the application as shown in the youtube video link.
-Youtube link: 
+Youtube link: https://youtu.be/dS7UnBQDk2Y
 
 The second method of running the application on Expo Snack have implications with the lastest version of Firebase and thus unable to function. Hence, the decision to completely remove features that requires Firebase was made.
 
